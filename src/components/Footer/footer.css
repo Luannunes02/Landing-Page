@@ -1,0 +1,35 @@
+footer {
+    background-color: rgb(138, 212, 193);
+    height: 150px;
+}
+
+#footerContainer {
+    font-family: sans-serif;
+    border: 1px solid rgb(138, 212, 193);
+
+}
+
+#info {
+    margin-top: 50px;
+}
+
+#footerLink {
+    margin-left: 50px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    text-shadow: 1px 2px 2px rgb(255, 255, 255);
+    font-weight: 600;
+    margin-bottom: 20px;
+    transition: all .2s;
+}
+
+#footerLink:hover {
+    filter: brightness(1.4);
+    color: green;
+}
+
+#copyright {
+    margin-top: 20px;
+    opacity: 0.5;
+}
+

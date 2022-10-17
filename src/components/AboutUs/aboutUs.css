@@ -1,0 +1,33 @@
+#aboutUsDivFather {
+    background: linear-gradient(0deg, rgb(138, 212, 193) 0%, rgb(36, 36, 36) 30%);
+}
+
+#aboutUsDiv {
+    color: white;
+    max-height: 70vh;    
+}
+
+#svgImg {
+    background: url('../imgs/creditAnimation.svg') no-repeat;
+    width: 600px;
+    height: 400px;
+}
+
+#rowAboutUs {
+    margin-top: 100px;
+}
+
+#aboutUsContent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    text-align: left;
+}
+
+#aboutUsP {
+    text-align: left;
+    font-family: sans-serif;
+    opacity: 0.8;
+}
+

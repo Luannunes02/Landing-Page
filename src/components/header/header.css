@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Silkscreen&display=swap');
+
+body {
+    font-family: 'Silkscreen',sans-serif;
+}
+
+#navbarNav {    
+    justify-content: end;
+}
+
+#logo {
+    font-size: 24px;
+    font-family: 'Silkscreen';
+    transition: all .3s;
+    color: white;
+}
+
+#logo:hover {
+    filter: brightness(3.0);
+}
+
+#headerBtn {
+    margin-right: 80px;
+    transition: all .3s;
+}
+
+#headerBtn:hover {
+    color: #73faf3;
+    text-shadow: rgb(0, 0, 0) 1px 2px;    
+}
+
+li {
+    font-size: 20px;
+}
