@@ -1,5 +1,7 @@
 # Créditei
 
+![landingPage](https://user-images.githubusercontent.com/105875989/196572858-5e482df5-1c24-4bfa-b274-e5899e37a07c.gif)
+
 Landing Page sobre cartão de crédito, página responsiva e bem estilizada
 
 <hr>
