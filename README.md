@@ -2,7 +2,7 @@
 <h2>Landing Page sobre cartão de crédito, página responsiva e bem estilizada</h2> 
 
 ![creditei](https://user-images.githubusercontent.com/105875989/202765159-50d545cd-98cc-40a7-a549-1276123ec6be.gif)
-
+<br><strong>Acesse o site e aproveite: https://landing-page-ochre-three.vercel.app   </strong>
 <br>
 <br>
 <h2><strong> 📝 Descrição:</strong></h2>    
