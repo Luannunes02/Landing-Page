@@ -1,7 +1,7 @@
 <h1 align="center">🖥️Créditei🖥️</h1>
 <h2>Landing Page sobre cartão de crédito, página responsiva e bem estilizada</h2> 
 
-![IMC ReactNative](https://user-images.githubusercontent.com/105875989/201987639-437856c5-a5d1-4cb0-bc69-c758aba761ea.gif)
+![creditei](https://user-images.githubusercontent.com/105875989/202765159-50d545cd-98cc-40a7-a549-1276123ec6be.gif)
 
 <br>
 <br>
